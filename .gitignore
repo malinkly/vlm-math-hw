@@ -47,3 +47,4 @@ assets/mathvista_testmini/
 # Environment files
 .env
 .env.*
+.DS_Store
