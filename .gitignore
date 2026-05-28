@@ -48,3 +48,4 @@ assets/mathvista_testmini/
 .env
 .env.*
 .DS_Store
+notebooks/
